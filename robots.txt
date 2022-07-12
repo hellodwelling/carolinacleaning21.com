@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://carolinacleaning21.com/sitemap.xml
